@@ -31,7 +31,7 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 You will need the following software on your computer:
 
 - PowerShell
-- .NET 5.0
+- .NET 6.0
 - A Git client
 - Visual Studio Code together with the following extensions:
     - The C# extension, available at https://aka.ms/AAbvu72.  
@@ -50,7 +50,7 @@ To view and edit the code in this project, use `git` to clone this project on yo
 1. To clone the source code, enter this command:
 
     ```powershell
-    git clone https://github.com/microsoft/fusion-dev-ebook
+    git clone https://github.com/nagaaki777/fusion-dev-ebook.git
     cd fusion-dev-ebook
     ```
 
@@ -69,7 +69,7 @@ You can set up these databases in Azure SQL Database by following these steps:
 1. To clone the source code in the Cloud Shell, enter these commands:
 
     ```powershell
-    git clone https://github.com/microsoft/fusion-dev-ebook
+    git clone https://github.com/nagaaki777/fusion-dev-ebook.git
     cd fusion-dev-ebook
     ```
 
